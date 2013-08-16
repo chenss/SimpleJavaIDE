@@ -1,4 +1,5 @@
 //Simple Java IDE based on JDK
+//http://www.oschina.net/code/snippet_558212_15111
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
